@@ -6,3 +6,5 @@ def ageCalculator(y, m, d):
     print(age)
 
 ageCalculator(2003, 3, 15)
+
+# Output: 19
